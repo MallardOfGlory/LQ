@@ -12,3 +12,6 @@ Low quality videos appear
 
 
 You can add this to path if you want so you can cd to a directory and convert all the files
+
+#video
+https://youtu.be/gagqOfoVrSI
